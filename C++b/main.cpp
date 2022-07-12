@@ -7,7 +7,7 @@ using namespace std;
 
 /*
 
-NOTE: If you put your name on this program, it would be nice if you give credits to me! something like this: "This program was originaly created by JohnTheOne"
+NOTE: If you put your name on this program, it would be nice if you give credits to me! something like this: "This program was originally created by JohnTheOne"
 
 */
 
